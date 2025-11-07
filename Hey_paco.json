@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "Hey Paco",
   "author": "8pd8vzc7yb-cyber",
-  "website": "https://github.com/8pd8vzc7yb-cyber/Hey_Paco/edit/main",
+  "website": "https://github.com/8pd8vzc7yb-cyber/Hey_Paco",
   "model": "hey_paço.tflite",
   "version": 2,
   "trained_languages": ["en"],
@@ -14,4 +14,5 @@
     "minimum_esphome_version": "2024.7"
   }
 }
+
 
